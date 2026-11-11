@@ -1,16 +1,23 @@
-## Hi there 👋
+![mdub1na — QA Engineer; an illustrated meat club cracking an app window with mdub1na's GitHub avatar behind the cracked glass](assets/profile-banner.png)
 
-<!--
-**mdub1na/mdub1na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm mdub1na 👋
 
-Here are some ideas to get you started:
+## But what does... What mdub1na means?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**M** stands for *myasnya*, or “meat,” because my surname is Myasnikov.
+
+**Dubina** means “a big club.” So, I'm a great meat club.
+
+> *A great meat club that cracks your app.*
+
+Thx 4 ur attention!
+
+---
+
+**QA Engineer working with real devices and the tools that make testing easier.**
+
+## What I work on
+
+- **Device farms** — remote control, device allocation, and shared access to physical devices.
+- **Test automation** — infrastructure for Appium and Maestro.
+- **Infrastructure** — Linux, Docker, Kubernetes, and builds for amd64 and arm64.
